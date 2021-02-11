@@ -10,7 +10,7 @@ var rope1,rope2,rope3, rope4,rope5;
 var world;
 
 function setup() {
-	createCanvas(800, 500);
+	createCanvas(1600, 500);
 	rectMode(CENTER);
 
 
